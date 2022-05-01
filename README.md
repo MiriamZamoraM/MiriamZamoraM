@@ -4,19 +4,6 @@
 
 <h1 align="center">A passionate backend developer from Mexico</h1>
 
-<!--
-**miri9810/miri9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **My Money Project**
-- 🌱 I’m currently learning **Django Rest Framework**
-- 👯 I’m looking to study with **Hackademy and HackWomen**
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
