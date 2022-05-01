@@ -1,11 +1,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 ![M](Banner_Github.png)
 
-<h1 align="center">A passionate backend developer from Mexico</h1>
+<h1 align="center">BackEnd Developer</h1>
 
-<h2 align="center">BackEnd Developer</h2>
-
-<img align='right' src="https://c.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif" width="230">
+<p align="center"> <img src="https://c.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif" width="230"></p>
 
 *******************************************************************************************************************************
 
