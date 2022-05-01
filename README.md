@@ -48,5 +48,6 @@ print(me)
 ```
 
 ------------------------------------------------------------------------------------------------------------
-[^]:
-    Prueba al pie de página
+
+
+***Aprendido y aplicado por Miriam Zamora Morales***
