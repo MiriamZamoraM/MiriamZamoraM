@@ -2,7 +2,8 @@
 ![M](Banner_Github.png)
 ### Hi, welcome to my profile 👋
 
-<h1 align="center">A passionate backend developer from Mexico</h1>
+<h1 align="left">A passionate backend developer from Mexico</h1>
+<img align='right' src="https://c.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif" width="230">
 
 
 <h3 align="center">Connect with me:</h3>
@@ -13,6 +14,8 @@
 <a href="https://discord.gg/9102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9102" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">BackEnd Developer</h3>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 
 ``` python
 class backdev:
@@ -46,6 +49,7 @@ class backdev:
 me = Developer()
 print(me)
 ```
+<img align='right' src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="230">
 
 ------------------------------------------------------------------------------------------------------------
 
