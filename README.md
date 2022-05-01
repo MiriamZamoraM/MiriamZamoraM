@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
-'class backdev:
+'
+class backdev:
     def __init__(self):
         self.name = "Miriam Zamora Morales"
         self.main_profession = "Backend Developer"
