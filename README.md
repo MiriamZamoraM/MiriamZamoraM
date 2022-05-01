@@ -20,7 +20,7 @@
 
 
 ``` python
-class backdev:
+class Backdev:
     def __init__(self):
         self.name = "Miriam Zamora Morlaes"
         self.main_profession = "Backend Developer"
@@ -47,7 +47,7 @@ class backdev:
         return f"Actualmente aprendiendo {self.python_stack("📌 Ongoing")[0]}"
 
 
-me = backdev()
+me = Backdev()
 print(me)
 ```
 -----------------------------------------------------------------------------------------------------------------
