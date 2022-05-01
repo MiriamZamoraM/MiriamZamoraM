@@ -36,8 +36,7 @@ class backdev:
             "💾 Databases": ["MySQL", "MariaDB"],
             "🧵 Miscellaneous": ["Arduino", "Cisco Packet Tracer"],
         }
-        self.tech_communities = ["FrontendCafé", "HackademyMX", "freeCodeCamp (FCC)"]
-        self.tech_contribution = ["Python mentor", "Docker mentor"]
+        self.tech_communities = ["HackademyMX", "HackWomen"]
 
     def spend_free_time(self):
         self.courses_in_progress = ["Django Rest Framework"]
