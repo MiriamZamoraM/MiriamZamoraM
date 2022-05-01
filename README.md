@@ -46,3 +46,5 @@ class backdev:
 me = Developer()
 print(me)
 ```
+[^]:
+    Prueba al pie de página
