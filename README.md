@@ -2,8 +2,7 @@
 ![M](Banner_Github.png)
 ### Hi, welcome to my profile 👋
 
-<h1 align="center">Hi 👋, I'm Miriam Zamora</h1>
-<h3 align="center">A passionate backend developer from Mexico</h3>
+<h1 align="center">A passionate backend developer from Mexico</h1>
 
 <!--
 **miri9810/miri9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+
+'class backdev:
+    def __init__(self):
+        self.name = "Miriam Zamora Morales"
+        self.main_profession = "Backend Developer"
+        self.base_profession = "Computer Systems Engineer"
+        self.python_stack = {
+            "🔧 Backend": ["Python", "Django"],
+            "📦 Python packages": [ "NumPy", "Pandas", "Matplotlib", "Sklearn"],
+            "🧵 Miscellaneous": ["Linux", "PostgreSQL", "Docker"],
+            "📌 Ongoing": ["Django Rest Framework"]
+        }
+        self.other_knowledge = {
+            "🎨 Frontend": ["HTML", "CSS", "Javascript"],
+            "🔧 Backend": ["PHP"],
+            "💾 Databases": ["MySQL", "MariaDB"],
+            "🧵 Miscellaneous": ["CISCO", "Redes y Telecomunicaciones", "Arduino"],
+        }
+        self.tech_communities = ["HackWomen"]
+
+    def spend_free_time(self):
+        self.courses_in_progress = ["BackEnd Django Rest Framework"]
+        self.next_course = "Data Science"
+        self.hobbies = ["Ver peliculas", "K-Dramas"]
+
+    def __str__(self) -> str:
+        return f"Actualmente aprendiendo {self.python_stack("📌 Ongoing")[0]}"
+
+
+me = backdev()
+print(me)'
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
