@@ -51,7 +51,7 @@ me = Backdev()
 print(me)
 ```
 -----------------------------------------------------------------------------------------------------------------
-<img align='center' src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="230">
+<p align="center"> <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="230"></p>
 
 ------------------------------------------------------------------------------------------------------------
 
