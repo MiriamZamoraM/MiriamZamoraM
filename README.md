@@ -47,7 +47,7 @@ class backdev:
         return f"Actualmente aprendiendo {self.python_stack("📌 Ongoing")[0]}"
 
 
-me = Developer()
+me = backdev()
 print(me)
 ```
 -----------------------------------------------------------------------------------------------------------------
