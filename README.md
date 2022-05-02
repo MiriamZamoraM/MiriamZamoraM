@@ -42,7 +42,7 @@ class Backdev:
         self.hobbies = ["Ver películas", "K-Dramas"]
 
     def __str__(self) -> str:
-        return f"Actualmente aprendiendo {self.python_stack("📌 Ongoing")[0]}"
+        return f"Actualmente aprendiendo {self.courses_in_progress("📌 Ongoing")[0]}"
 
 
 me = Backdev()
