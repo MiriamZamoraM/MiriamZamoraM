@@ -20,7 +20,7 @@
 ``` python
 class Backdev:
     def __init__(self):
-        self.name = "Miriam Zamora Morlaes"
+        self.name = "Miriam Zamora Morales"
         self.main_profession = "Backend Developer"
         self.base_profession = "Computer Systems Engineer"
         self.python_stack = {
