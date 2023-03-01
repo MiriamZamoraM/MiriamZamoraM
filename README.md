@@ -21,7 +21,7 @@
 class Backdev:
     def __init__(self):
         self.name = "Miriam Zamora Morales"
-        self.main_profession = "Backend Developer"
+        self.main_profession = "Backend Developer - Django REST Framework"
         self.base_profession = "Computer Systems Engineer"
         self.python_stack = {
             "🔧 Backend": ["Python", "Django"],
@@ -30,14 +30,14 @@ class Backdev:
             "📌 Ongoing": ["Django Rest Framework"]
         }
         self.other_knowledge = {
-            "🔧 Other_languages": ["PHP", "HTML", "CSS", "Java", "SQL"],
-            "💾 Databases": ["MySQL", "MariaDB"],
-            "🧵 Miscellaneous": ["Arduino", "Cisco Packet Tracer"],
+            "🔧 Other_languages": ["SQL"],
+            "💾 Databases": ["MySQL", "MariaDB", "PostgreSQL"],
+            "🧵 Miscellaneous": ["Cisco Packet Tracer"],
         }
         self.tech_communities = ["HackademyMX", "HackWomen"]
 
     def spend_free_time(self):
-        self.courses_in_progress = ["Django Rest Framework"]
+        self.courses_in_progress = ["FastAPI"]
         self.next_course = ["Data Science"]
         self.hobbies = ["Ver películas", "K-Dramas"]
 
