@@ -1,4 +1,4 @@
-![M](MIRIAM_ZAMORA.png)
+![M](banner2.png)
 
 ``` python
 class Backdev:
@@ -14,7 +14,7 @@ class Backdev:
         self.other_knowledge = {
             "🔧 Other_languages": ["SQL"],
             "💾 Databases": ["MySQL", "MariaDB", "PostgreSQL"],
-            
+
             "👓 Xtras": 
             "📕 Passions": ["Historia de México", "La segunda Guerra Mundial"],
         }
