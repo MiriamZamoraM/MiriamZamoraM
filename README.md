@@ -1,57 +1,52 @@
-<h1 align="center">Hi there, I'm Miriam 💙</h1>
+# Miriam Zamora Morales 👩‍💻
 
-<p align="center">
-  <em>Backend developer in progress · Django REST enthusiast · DevOps curious · Clean systems lover</em>
-</p>
+_Backend Developer in Progress • Passionate about building robust APIs and scalable systems_
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
+Soy una desarrolladora backend en formación constante. Disfruto crear soluciones limpias y estructuradas usando Python y Django REST Framework. Me interesa la eficiencia, la claridad en el código y la colaboración entre equipos.
 
-```python
-# I enjoy solving backend problems and creating systems that make life easier.
-# I value structure, clarity, and teamwork.
-```
-
-- 💻 Currently working with: **Python** · **Django REST Framework**
-- 🔧 Exploring: **Docker** · **Kubernetes** · **DevOps fundamentals**
-- 🧱 Building: My personal **portfolio** site
-- 🎯 Future goal: Contribute to robust, scalable backend architectures
+Actualmente explorando el mundo DevOps: Docker, Linux y Kubernetes me están llevando a pensar más allá del código.
 
 ---
 
-### 🧰 Tech Stack
-
-**Main Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Learning:**  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+### 🛠️ Tech Stack
+- **Lenguajes**: Python, Bash, SQL
+- **Frameworks**: Django, Django REST Framework
+- **Bases de datos**: PostgreSQL, MySQL
+- **Herramientas**: Docker, Git, Linux, XAMPP
+- **Actualmente aprendiendo**: Kubernetes, CI/CD pipelines
 
 ---
 
-### 📦 GitHub Stats
+### 📌 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiriamZamoraM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiriamZamoraM&layout=compact&bg_color=0d1117&hide_border=true&title_color=00bcd4&text_color=ffffff" width="48%" />
-</p>
+#### 1. **API REST para gestión de órdenes de trabajo**
+> Proyecto propio. Backend construido con Django REST Framework, PostgreSQL, dockerizado. Incluye autenticación JWT y control de permisos por rol.
+🔗 [Ver repositorio](#) | 🛠️ Stack: DRF, PostgreSQL, Docker
+
+#### 2. **Sistema de monitoreo de sensores IoT**
+> Proyecto colaborativo. Participé en la integración del backend con dispositivos Arduino y en el modelado de datos.
+🔗 [Ver repositorio](#) | 🛠️ Stack: Python, MySQL, Linux
+
+#### 3. **Plataforma educativa con autenticación personalizada**
+> Proyecto académico donde colaboré con modelado de usuarios, creación de endpoints seguros y pruebas con Postman.
+🔗 [Ver repositorio](#) | 🛠️ Stack: Django, SQLite, HTML
 
 ---
 
-### 🌱 Quote I Live By
-
-> _"The mind is like a magnet, it attracts what it focuses on the most."_  
-> — Nikola Tesla
+### 📈 GitHub Stats
+![Miriam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiriamZamoraM&show_icons=true&theme=github_dark)
 
 ---
 
-<p align="center">
-  <em>README crafted with 💙 by Miriam Zamora Morales</em>
-</p>
+### 📫 Contacto
+- 📧 Email: [tu_correo@example.com]
+- 💼 LinkedIn: [linkedin.com/in/miriamzamora](#)
+
+---
+
+> _"El código es una conversación constante entre el problema y la solución."_  
+> — Miriam Zamora Morales
+
