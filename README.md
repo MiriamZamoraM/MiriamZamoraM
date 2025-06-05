@@ -4,6 +4,10 @@
 
 <p><i>From the terminal to production, I engineer systems that solve real problems.</i></p>
 
+<p align="center">
+Formo parte del catálogo de expertos de BEDU en bases de datos, con experiencia práctica en el diseño y uso de PostgreSQL, MySQL y MongoDB. Aporté activamente en la construcción de un repositorio educativo interno orientado a buenas prácticas y eficiencia en consultas.
+</p>
+
 ---
 
 ### 🚀 Tech Stack
@@ -25,24 +29,21 @@
 
 ### 🧪 Projects I'm Proud Of
 
-#### 📌 API REST para órdenes de trabajo
+#### 📌 API REST para control y manejo de finanzas personales  
 Proyecto personal. CRUD completo con permisos por rol, JWT, validaciones y despliegue en Docker.  
-🔗 [Ver repositorio](#)  
+🔗 [Ver repositorio](https://github.com/MiriamZamoraM/my_money)  
 🛠️ Stack: Django REST Framework · PostgreSQL · Docker
+---
+
+#### 📌 API para HackdaemyConnect
+Proyecto colaborativo para Hackademy. Contribuí al modelado de base de datos y creación de endpoints REST para impulsar la conexión entre mujeres profesionales y empresas. 
+🛠️ Stack: Django REST Framework · PostgreSQL · Docker · Pre-commit · Python 3.10
 
 ---
 
-#### 📌 Sistema de monitoreo IoT
-Proyecto colaborativo. Modelado de base de datos y endpoints para sensores conectados a Arduino.  
-🔗 [Ver repositorio](#)  
-🛠️ Stack: Python · MySQL · Linux
-
----
-
-#### 📌 Plataforma educativa
-Proyecto académico. Enfoque en autenticación personalizada y pruebas con Postman.  
-🔗 [Ver repositorio](#)  
-🛠️ Stack: Django · SQLite · HTML
+#### 📌 Backend para sistema de CVs
+Estudié y probé esta API REST como inspiración para desarrollar sistemas robustos con Django, PostgreSQL y Docker. Analicé su arquitectura y automatización de entorno con `run.sh`.   
+🛠️ Stack: Django REST Framework · PostgreSQL · Docker · Pipenv
 
 ---
 
@@ -60,7 +61,7 @@ Proyecto académico. Enfoque en autenticación personalizada y pruebas con Postm
 
 ---
 
-### 🌐 Where to Find Me
+### 🌐 ¿Dónde me puedes encontrar? 😎
 
 <p>
   <a href="https://www.linkedin.com/in/miriamzamora-dev/">
