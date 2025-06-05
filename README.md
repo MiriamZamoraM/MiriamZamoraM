@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Miriam</h1>
+<div align="center">
 
-<p align="center"><i>Backend Developer in Progress • Passionate about building robust APIs and scalable systems</i></p>
+<h1>Hi 👋, I'm Miriam</h1>
+
+<p><i>From the terminal to production, I engineer systems that solve real problems.</i></p>
 
 ---
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
@@ -18,6 +20,8 @@
 </p>
 
 ---
+
+</div>
 
 ### 🧪 Projects I'm Proud Of
 
@@ -42,13 +46,15 @@ Proyecto académico. Enfoque en autenticación personalizada y pruebas con Postm
 
 ---
 
+<div align="center">
+
 ### 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiriamZamoraM&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=MiriamZamoraM&theme=darkhub&margin-w=5" alt="Trophies" />
 </p>
 
@@ -68,3 +74,5 @@ Proyecto académico. Enfoque en autenticación personalizada y pruebas con Postm
 ---
 
 <sub><i>README elaborado por Miriam Zamora Morales • Última actualización: junio 2025</i></sub>
+
+</div>
