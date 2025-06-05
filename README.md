@@ -1,52 +1,70 @@
-# Miriam Zamora Morales 👩‍💻
+<h1 align="center">Hi 👋, I'm Miriam</h1>
 
-_Backend Developer in Progress • Passionate about building robust APIs and scalable systems_
-
----
-
-### 🚀 About Me
-Soy una desarrolladora backend en formación constante. Disfruto crear soluciones limpias y estructuradas usando Python y Django REST Framework. Me interesa la eficiencia, la claridad en el código y la colaboración entre equipos.
-
-Actualmente explorando el mundo DevOps: Docker, Linux y Kubernetes me están llevando a pensar más allá del código.
+<p align="center"><i>Backend Developer in Progress • Passionate about building robust APIs and scalable systems</i></p>
 
 ---
 
-### 🛠️ Tech Stack
-- **Lenguajes**: Python, Bash, SQL
-- **Frameworks**: Django, Django REST Framework
-- **Bases de datos**: PostgreSQL, MySQL
-- **Herramientas**: Docker, Git, Linux, XAMPP
-- **Actualmente aprendiendo**: Kubernetes, CI/CD pipelines
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
+</p>
 
 ---
 
-### 📌 Proyectos Destacados
+### 🧪 Projects I'm Proud Of
 
-#### 1. **API REST para gestión de órdenes de trabajo**
-> Proyecto propio. Backend construido con Django REST Framework, PostgreSQL, dockerizado. Incluye autenticación JWT y control de permisos por rol.
-🔗 [Ver repositorio](#) | 🛠️ Stack: DRF, PostgreSQL, Docker
+#### 📌 API REST para órdenes de trabajo
+Proyecto personal. CRUD completo con permisos por rol, JWT, validaciones y despliegue en Docker.  
+🔗 [Ver repositorio](#)  
+🛠️ Stack: Django REST Framework · PostgreSQL · Docker
 
-#### 2. **Sistema de monitoreo de sensores IoT**
-> Proyecto colaborativo. Participé en la integración del backend con dispositivos Arduino y en el modelado de datos.
-🔗 [Ver repositorio](#) | 🛠️ Stack: Python, MySQL, Linux
+---
 
-#### 3. **Plataforma educativa con autenticación personalizada**
-> Proyecto académico donde colaboré con modelado de usuarios, creación de endpoints seguros y pruebas con Postman.
-🔗 [Ver repositorio](#) | 🛠️ Stack: Django, SQLite, HTML
+#### 📌 Sistema de monitoreo IoT
+Proyecto colaborativo. Modelado de base de datos y endpoints para sensores conectados a Arduino.  
+🔗 [Ver repositorio](#)  
+🛠️ Stack: Python · MySQL · Linux
+
+---
+
+#### 📌 Plataforma educativa
+Proyecto académico. Enfoque en autenticación personalizada y pruebas con Postman.  
+🔗 [Ver repositorio](#)  
+🛠️ Stack: Django · SQLite · HTML
 
 ---
 
 ### 📈 GitHub Stats
-![Miriam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiriamZamoraM&show_icons=true&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiriamZamoraM&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiriamZamoraM&theme=darkhub&margin-w=5" alt="Trophies" />
+</p>
 
 ---
 
-### 📫 Contacto
-- 📧 Email: [tu_correo@example.com]
-- 💼 LinkedIn: [linkedin.com/in/miriamzamora](#)
+### 🌐 Where to Find Me
+
+<p>
+  <a href="https://www.linkedin.com/in/miriamzamora-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2" />
+  </a>
+  <a href="https://www.instagram.com/mirizm1098">
+    <img src="https://img.shields.io/badge/Instagram-Profile?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
+  </a>
+</p>
 
 ---
 
-> _"El código es una conversación constante entre el problema y la solución."_  
-> — Miriam Zamora Morales
-
+<sub><i>README elaborado por Miriam Zamora Morales • Última actualización: junio 2025</i></sub>
