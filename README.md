@@ -27,12 +27,16 @@ Formo parte del catálogo de expertos de BEDU en bases de datos, con experiencia
 
 </div>
 
-### 🧪 Projects I'm Proud Of
+### 🧪 Proyectos en los que trabajado
+
 
 #### 📌 API REST para control y manejo de finanzas personales  
+
 Proyecto personal. CRUD completo con permisos por rol, JWT, validaciones y despliegue en Docker.  
-🔗 [Ver repositorio](https://github.com/MiriamZamoraM/my_money)  
 🛠️ Stack: Django REST Framework · PostgreSQL · Docker
+
+🔗 [Ver repositorio](https://github.com/MiriamZamoraM/my_money)  
+
 ---
 
 #### 📌 API para HackdaemyConnect
