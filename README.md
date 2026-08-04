@@ -67,10 +67,6 @@ Proyecto colaborativo enfocado en conectar talento femenino con la industria tec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiriamZamoraM&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MiriamZamoraM&theme=darkhub&margin-w=5" alt="Trophies" />
-</p>
-
 ---
 
 ### 🌐 ¿Dónde me puedes encontrar? 😎
