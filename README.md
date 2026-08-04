@@ -1,53 +1,61 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Miriam</h1>
+<h1>Hi 👋, I'm Miriam Zamora</h1>
 
-<p><i>From the terminal to production, I engineer systems that solve real problems.</i></p>
+<p><i>DevOps Engineer | Systems & Infrastructure Specialist</i></p>
 
 <p align="center">
-Formo parte del catálogo de expertos de BEDU en bases de datos, con experiencia práctica en el diseño y uso de PostgreSQL, MySQL y MongoDB. Aporté activamente en la construcción de un repositorio educativo interno orientado a buenas prácticas y eficiencia en consultas.
+Ingeniera en Sistemas dedicada a la automatización de infraestructura, diseño de pipelines CI/CD y entornos de contenedores. Formo parte del catálogo de expertos de BEDU en bases de datos (PostgreSQL, MySQL, MongoDB). Mi background en desarrollo backend me permite construir arquitecturas continuas, seguras y eficientes alineando el código con las operaciones Cloud.
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack & Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" alt="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
+  <!-- DevOps & IaC -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform" title="Terraform" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" alt="Ansible" title="Ansible" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" title="Docker" />
+  <!-- OS & Scripting -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" alt="Bash" title="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
+  <!-- Databases & Systems -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" title="Django" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" title="Git" />
 </p>
 
 ---
 
 </div>
 
-### 🧪 Proyectos en los que trabajado
+### 🧪 Proyectos Destacados
 
-
-#### 📌 API REST para control y manejo de finanzas personales  
-
-Proyecto personal. CRUD completo con permisos por rol, JWT, validaciones y despliegue en Docker.  
-🛠️ Stack: Django REST Framework · PostgreSQL · Docker
-
-🔗 [Ver repositorio](https://github.com/MiriamZamoraM/my_money)  
-
----
-
-#### 📌 API para HackdaemyConnect
-Proyecto colaborativo para Hackademy. Contribuí al modelado de base de datos y creación de endpoints REST para impulsar la conexión entre mujeres profesionales y empresas. 
-🛠️ Stack: Django REST Framework · PostgreSQL · Docker · Pre-commit · Python 3.10
+#### 📌 [My-DevOps-Journey](https://github.com/MiriamZamoraM/My-DevOps-Journey) ⭐ *(Proyecto Principal)*
+Repositorio práctico enfocado en automatización de infraestructura, flujos CI/CD y seguridad de código.
+* **CI/CD:** Pipelines automatizados con GitHub Actions para validaciones continuas y escaneo de seguridad estático en código IaC.
+* **IaC & Configuración:** Provisión de entornos usando Terraform y automatización con Ansible.
+* **Contenedores:** Despliegue de servicios e imágenes optimizadas en Docker y Docker Compose.  
+🛠️ **Stack:** GitHub Actions · Terraform · Ansible · Docker · Linux · Security Scans
 
 ---
 
-#### 📌 Backend para sistema de CVs
-Estudié y probé esta API REST como inspiración para desarrollar sistemas robustos con Django, PostgreSQL y Docker. Analicé su arquitectura y automatización de entorno con `run.sh`.   
-🛠️ Stack: Django REST Framework · PostgreSQL · Docker · Pipenv
+#### 📌 API REST para control de finanzas personales (my_money)
+Proyecto backend enfocado en arquitectura limpia y entornos aislados.
+* CRUD completo con permisos por rol, autenticación JWT, validaciones y despliegue contenedorizado.  
+🛠️ **Stack:** Django REST Framework · PostgreSQL · Docker · Python
+
+🔗 [Ver repositorio](https://github.com/MiriamZamoraM/my_money)
+
+---
+
+#### 📌 API para HackademyConnect
+Proyecto colaborativo enfocado en conectar talento femenino con la industria tech.
+* Diseñé el modelado de bases de datos relacionales y la creación de endpoints REST con integraciones pre-commit para calidad de código.  
+🛠️ **Stack:** Django REST Framework · PostgreSQL · Docker · Python 3.10
 
 ---
 
@@ -71,13 +79,10 @@ Estudié y probé esta API REST como inspiración para desarrollar sistemas robu
   <a href="https://www.linkedin.com/in/miriamzamora-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2" />
   </a>
-  <a href="https://www.instagram.com/mirizm1098">
-    <img src="https://img.shields.io/badge/Instagram-Profile?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
-  </a>
 </p>
 
 ---
 
-<sub><i>README elaborado por Miriam Zamora Morales • Última actualización: junio 2025</i></sub>
+<sub><i>README elaborado por Miriam Zamora Morales • Última actualización: 2026</i></sub>
 
 </div>
